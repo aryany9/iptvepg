@@ -160,6 +160,21 @@
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/3399XM.jpg" />
     <url>http://www.d2h.com</url>
   </channel>
+  <channel id="News 24">
+    <display-name lang="en">News 24</display-name>
+    <icon src="http://www.tatasky.com/tvguiderv/channel_logos/516.png" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABP NEWS">
+    <display-name lang="en">ABP NEWS</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/102ABPNEWS.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="News 18 India">
+    <display-name lang="en">News 18 India</display-name>
+    <icon src="http://www.tatasky.com/tvguiderv/channel_logos/519.png" />
+    <url>http://www.tatasky.com</url>
+  </channel>
   <channel id="ZEE ETC BOLLYWOOD">
     <display-name lang="en">ZEE ETC BOLLYWOOD</display-name>
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/0932ZEEETC.jpg" />
@@ -4093,6 +4108,196 @@
   <programme start="20200209220000 +0530" stop="20200209230000 +0530" channel="9XM">
     <title lang="en">Bade - Chote's Playlist</title>
     <desc lang="en">A playlist of select super hit songs from the recently released Hindi movies.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209003000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209003000 +0530" stop="20200209010000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209010000 +0530" stop="20200209013000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209013000 +0530" stop="20200209020000 +0530" channel="ABP NEWS">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The show brings a quick recap of the top headlines of the day. It encompasses the top stories in a crisp format.(n)</desc>
+  </programme>
+  <programme start="20200209020000 +0530" stop="20200209023000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209023000 +0530" stop="20200209030000 +0530" channel="ABP NEWS">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The show brings a quick recap of the top headlines of the day. It encompasses the top stories in a crisp format.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209033000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209033000 +0530" stop="20200209040000 +0530" channel="ABP NEWS">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The show brings a quick recap of the top headlines of the day. It encompasses the top stories in a crisp format.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209043000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209050000 +0530" channel="ABP NEWS">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The show brings a quick recap of the top headlines of the day. It encompasses the top stories in a crisp format.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209053000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209053000 +0530" stop="20200209060000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209063000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209063000 +0530" stop="20200209070000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209073000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209073000 +0530" stop="20200209080000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209080000 +0530" stop="20200209083000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209083000 +0530" stop="20200209090000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209093000 +0530" channel="ABP NEWS">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="ABP NEWS">
+    <title lang="en">Bollywood Blockbuster</title>
+    <desc lang="en">An entertainment based programme.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209103000 +0530" channel="ABP NEWS">
+    <title lang="en">Pradhanmantri 2</title>
+  </programme>
+  <programme start="20200209103000 +0530" stop="20200209110000 +0530" channel="ABP NEWS">
+    <title lang="en">Pradhanmantri 2</title>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209113000 +0530" channel="ABP NEWS">
+    <title lang="en">News Center</title>
+    <desc lang="en">NEWSCENTER is Arirang's representative news program aired in prime time.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209120000 +0530" channel="ABP NEWS">
+    <title lang="en">News Center</title>
+    <desc lang="en">NEWSCENTER is Arirang's representative news program aired in prime time.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209123000 +0530" channel="ABP NEWS">
+    <title lang="en">Aadha Din Poori Khabar</title>
+    <desc lang="en">This programs gives viewers a quick update on daily, regular and most recent news.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="ABP NEWS">
+    <title lang="en">Sansani</title>
+    <desc lang="en">A crime bulletin which gives you a daily account of the latest news from the world of crime. The show brings the viewer face-to-face with the reality of crime, keeping him aware and on guard.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Din Bhar</title>
+    <desc lang="en">The anchor provides an overall analysis of the news updates of the day starting with the headlines and then moving towards other issues.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="ABP NEWS">
+    <title lang="en">Khabar Ab Tak</title>
+    <desc lang="en">NEWS BULLETINE ON CURRENT AFFAIRS.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="ABP NEWS">
+    <title lang="en">Saas Bahu Aur Saazish</title>
+    <desc lang="en">The program captures all the excitement and news of popular serials across channels and the tele-world.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209153000 +0530" channel="ABP NEWS">
+    <title lang="en">Saas Bahu Aur Saazish</title>
+    <desc lang="en">The program captures all the excitement and news of popular serials across channels and the tele-world.(n)</desc>
+  </programme>
+  <programme start="20200209153000 +0530" stop="20200209160000 +0530" channel="ABP NEWS">
+    <title lang="en">Reality Report</title>
+    <desc lang="en">This show is a sneak-peek on the reality of reality shows in the tele-world.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209163000 +0530" channel="ABP NEWS">
+    <title lang="en">Sabse Garam Bahas</title>
+    <desc lang="en">A special report.(n)</desc>
+  </programme>
+  <programme start="20200209163000 +0530" stop="20200209170000 +0530" channel="ABP NEWS">
+    <title lang="en">Sabse Garam Bahas</title>
+    <desc lang="en">A special report.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="ABP NEWS">
+    <title lang="en">KBM Sidha Sawaal</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="ABP NEWS">
+    <title lang="en">KBM Sidha Sawaal</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209183000 +0530" channel="ABP NEWS">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209183000 +0530" stop="20200209190000 +0530" channel="ABP NEWS">
+    <title lang="en">Panchnama</title>
+    <desc lang="en">This show will have 5 anchors talking about the biggest stories of the day in a quick news format.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209193000 +0530" channel="ABP NEWS">
+    <title lang="en">News @ 7</title>
+    <desc lang="en">Morning dose of developing news.(n)</desc>
+  </programme>
+  <programme start="20200209193000 +0530" stop="20200209200000 +0530" channel="ABP NEWS">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209203000 +0530" channel="ABP NEWS">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209203000 +0530" stop="20200209205000 +0530" channel="ABP NEWS">
+    <title lang="en">Bollywood Blockbuster</title>
+    <desc lang="en">An entertainment based programme.(n)</desc>
+  </programme>
+  <programme start="20200209205000 +0530" stop="20200209210000 +0530" channel="ABP NEWS">
+    <title lang="en">Viral News</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209213000 +0530" channel="ABP NEWS">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">Flagship analytical programme going beyond the headlines.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209220000 +0530" channel="ABP NEWS">
+    <title lang="en">09:30 Special</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209223000 +0530" channel="ABP NEWS">
+    <title lang="en">Vyakti Vishesh</title>
+    <desc lang="en">Newsmaker of the week, a special person who is in recent news is featured in this show.(n)</desc>
+  </programme>
+  <programme start="20200209223000 +0530" stop="20200209230000 +0530" channel="ABP NEWS">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="ABP NEWS">
+    <title lang="en">Sansani</title>
+    <desc lang="en">A crime bulletin which gives you a daily account of the latest news from the world of crime. The show brings the viewer face-to-face with the reality of crime, keeping him aware and on guard.(n)</desc>
   </programme>
   <programme start="20200209000000 +0530" stop="20200209003000 +0530" channel="ZEE ETC BOLLYWOOD">
     <title lang="en">ETC Superhits</title>
