@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  
+  <channel id="ANIMAL PLANET ">
+    <display-name lang="en">ANIMAL PLANET </display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/606ANMLPNT.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <programme start="20200209000000 +0530" stop="20200209010000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Spy In The Wild</title>
+    <desc lang="en">Polar bears are deemed by many to be the most charismatic and elusive bears of all.(n)</desc>
+  </programme>
+  <programme start="20200209010000 +0530" stop="20200209013000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209013000 +0530" stop="20200209020000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209020000 +0530" stop="20200209030000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">The Zoo: San Diego</title>
+    <desc lang="en">A baby klipspringer is born on one of the coldest nights of the season and is miraculously nursed back to health but will his mother accept him when he returns home? The California condor team at the Safari Park goes to unbelievable lengths.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209040000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Spy In The Wild</title>
+    <desc lang="en">Polar bears are deemed by many to be the most charismatic and elusive bears of all.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209050000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Weird True &amp; Freaky</title>
+    <desc lang="en">Sudden deadly collisions real-life zombie slaves and tyrants fighting to end all competition. These are the scariest most unbelievable animal encounters across the globe.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209053000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209053000 +0530" stop="20200209060000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209070000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Dodo Heroes</title>
+    <desc lang="en">Derrick Campana fits Jabu an elephant with a life-threatening injury the world's first elephant orthotic leg brace in the hopes it will save his life.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209075600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">China Wild</title>
+    <desc lang="en">China: a country with the world's most diverse ecosystems teeming with an incredible array of wildlife.(n)</desc>
+  </programme>
+  <programme start="20200209075600 +0530" stop="20200209082600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">How Do Animals Do That?</title>
+    <desc lang="en">Summer is the second chapter in the spectacular landmark series THE WILD CANADIAN YEAR revealing dramatic wildlife stories and showcasing Canadian landscapes at the peak of their splendour.(n)</desc>
+  </programme>
+  <programme start="20200209082600 +0530" stop="20200209085600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">How Do Animals Do That?</title>
+    <desc lang="en">Summer is the second chapter in the spectacular landmark series THE WILD CANADIAN YEAR revealing dramatic wildlife stories and showcasing Canadian landscapes at the peak of their splendour.(n)</desc>
+  </programme>
+  <programme start="20200209085600 +0530" stop="20200209095600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Zambia Untamed</title>
+    <desc lang="en">In a magical corner of Zambia lies an extraordinary valley â€“ a place where Africaâ€™s most charismatic animals live shoulder to shoulder.(n)</desc>
+  </programme>
+  <programme start="20200209095600 +0530" stop="20200209105600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Animal Planet Exclusives</title>
+    <desc lang="en">The host explores the behaviour of different wild animals and gets to know about their day-to-day activities and struggle for survival.(n)</desc>
+  </programme>
+  <programme start="20200209105600 +0530" stop="20200209115600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Wild Philippines With Nigel Marven</title>
+    <desc lang="en">A scattering of islands Mindanao (the second largest in the Philippines) Bohol and Cebu are home to a bizarre array of creatures and stunning landscapes.(n)</desc>
+  </programme>
+  <programme start="20200209115600 +0530" stop="20200209121800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">The Lion Kingdom</title>
+    <desc lang="en">Steve Leonard the renowned wildlife presenter is mesmerized to see the footprints of lions in India's Gir National Park. To most people in the world lions exist in Africa and nowhere else.(n)</desc>
+  </programme>
+  <programme start="20200209121800 +0530" stop="20200209124000 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Tales From Rhino Land</title>
+    <desc lang="en">The Kukarkata Hills Of Burrapahar Are Dotted With Hundreds Of Caves. One Of Them Is Home To Thousands Of Bats. Poachers Head For These Caves After The Strike. Once There They Can'T Be Caught.(n)</desc>
+  </programme>
+  <programme start="20200209124000 +0530" stop="20200209132600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Animal Planet Exclusives</title>
+    <desc lang="en">The host explores the behaviour of different wild animals and gets to know about their day-to-day activities and struggle for survival.(n)</desc>
+  </programme>
+  <programme start="20200209132600 +0530" stop="20200209141300 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Spy In The Wild</title>
+    <desc lang="en">Polar bears are deemed by many to be the most charismatic and elusive bears of all.(n)</desc>
+  </programme>
+  <programme start="20200209141300 +0530" stop="20200209145600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Pride In Battle</title>
+    <desc lang="en">The epic story of the rapidly growing Xakanaxa pride as it battles to survive through one of the Okavango's harshest summers.(n)</desc>
+  </programme>
+  <programme start="20200209145600 +0530" stop="20200209155600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Earth: The Nature Of Our Planet</title>
+    <desc lang="en">The First Episode Explores The Most Inconspicuous Of The Earth'S Three Habitats Air Or The Atmosphere. It Is Invisible Yet This Element Is Of Profound Importance. We All Know That Without Oxygen Life Is Unsustainable.(n)</desc>
+  </programme>
+  <programme start="20200209155600 +0530" stop="20200209162600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Killer Instincts</title>
+    <desc lang="en">Whether ites on land in the air or under water survival is a daily battle between fierce forces in the animal kingdom.(n)</desc>
+  </programme>
+  <programme start="20200209162600 +0530" stop="20200209165600 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">The Lion Kingdom</title>
+    <desc lang="en">Steve Leonard the renowned wildlife presenter is mesmerized to see the footprints of lions in India's Gir National Park. To most people in the world lions exist in Africa and nowhere else.(n)</desc>
+  </programme>
+  <programme start="20200209165600 +0530" stop="20200209175800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Wildest Survival</title>
+    <desc lang="en">How some of the world's most toxic animals use poison and venom to survive.(n)</desc>
+  </programme>
+  <programme start="20200209175800 +0530" stop="20200209182800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">The Cute Ones</title>
+    <desc lang="en">Isn't there something magical about jumping? Yes it's great you know stretching your muscles. But some animals just don't see the difference they jump practically all the time and have the best equipment for that.(n)</desc>
+  </programme>
+  <programme start="20200209182800 +0530" stop="20200209185800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Killer Instincts</title>
+    <desc lang="en">Whether ites on land in the air or under water survival is a daily battle between fierce forces in the animal kingdom.(n)</desc>
+  </programme>
+  <programme start="20200209185800 +0530" stop="20200209195800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Animal Planet Exclusives</title>
+    <desc lang="en">The host explores the behaviour of different wild animals and gets to know about their day-to-day activities and struggle for survival.(n)</desc>
+  </programme>
+  <programme start="20200209195800 +0530" stop="20200209205800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Spy In The Wild</title>
+    <desc lang="en">Polar bears are deemed by many to be the most charismatic and elusive bears of all.(n)</desc>
+  </programme>
+  <programme start="20200209205800 +0530" stop="20200209215800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Gangland Killers</title>
+    <desc lang="en">A documentary that sheds light on the various species of wild animals that are used to living and hunting in groups.(n)</desc>
+  </programme>
+  <programme start="20200209215800 +0530" stop="20200209225800 +0530" channel="ANIMAL PLANET ">
+    <title lang="en">Weird True &amp; Freaky</title>
+    <desc lang="en">Sudden deadly collisions real-life zombie slaves and tyrants fighting to end all competition. These are the scariest most unbelievable animal encounters across the globe.(n)</desc>
+  </programme>
+</tv>
