@@ -1,11 +1,305 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  
+  <channel id="AAJ TAK">
+    <display-name lang="en">AAJ TAK</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/103AAJTAK.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
   <channel id="ANIMAL PLANET ">
     <display-name lang="en">ANIMAL PLANET </display-name>
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/606ANMLPNT.jpg" />
     <url>http://www.d2h.com</url>
   </channel>
+  <channel id="SONY SAB">
+    <display-name lang="en">SONY SAB</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/1016SABTV.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="SONY MAX">
+    <display-name lang="en">SONY MAX</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/624SETMAX.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="STAR GOLD">
+    <display-name lang="en">STAR GOLD</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/626STRGOLD.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="ZEE ACTION">
+    <display-name lang="en">ZEE ACTION</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/548ZEEACT.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="ROMEDY NOW">
+    <display-name lang="en">ROMEDY NOW</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/140ROMN.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="SONY PIX">
+    <display-name lang="en">SONY PIX</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/132PIX.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="NDTV INDIA">
+    <display-name lang="en">NDTV INDIA</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/104NDTVI.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="NEWS NATION">
+    <display-name lang="en">NEWS NATION</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/0836NWSNAT.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="INDIA TV">
+    <display-name lang="en">INDIA TV</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/108INDIATV.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="TIMES NOW">
+    <display-name lang="en">TIMES NOW</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/115TMNOW.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="NDTV 24X7">
+    <display-name lang="en">NDTV 24X7</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/150NDTV24.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <programme start="20200209000000 +0530" stop="20200209001000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209001000 +0530" stop="20200209003000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209003000 +0530" stop="20200209010000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209010000 +0530" stop="20200209013000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209013000 +0530" stop="20200209020000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209020000 +0530" stop="20200209023000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209023000 +0530" stop="20200209030000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209033000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209033000 +0530" stop="20200209040000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209043000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209050000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209053000 +0530" channel="AAJ TAK">
+    <title lang="en">Advertisement</title>
+    <desc lang="en">A show for those who love to shop from the comforts of their home, learn about a wide selection of products and take advantage of a convenient method of shopping.(n)</desc>
+  </programme>
+  <programme start="20200209053000 +0530" stop="20200209055000 +0530" channel="AAJ TAK">
+    <title lang="en">Advertisement</title>
+    <desc lang="en">A show for those who love to shop from the comforts of their home, learn about a wide selection of products and take advantage of a convenient method of shopping.(n)</desc>
+  </programme>
+  <programme start="20200209055000 +0530" stop="20200209063000 +0530" channel="AAJ TAK">
+    <title lang="en">Advertisement</title>
+    <desc lang="en">A show for those who love to shop from the comforts of their home, learn about a wide selection of products and take advantage of a convenient method of shopping.(n)</desc>
+  </programme>
+  <programme start="20200209063000 +0530" stop="20200209063500 +0530" channel="AAJ TAK">
+    <title lang="en">5 Min 25 Khabar</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209063500 +0530" stop="20200209070000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209072000 +0530" channel="AAJ TAK">
+    <title lang="en">Nonstop 100</title>
+    <desc lang="en">An uninterrupted news bulletin without any breaks and commercials.(n)</desc>
+  </programme>
+  <programme start="20200209072000 +0530" stop="20200209073000 +0530" channel="AAJ TAK">
+    <title lang="en">Subah Subah</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209073000 +0530" stop="20200209075500 +0530" channel="AAJ TAK">
+    <title lang="en">Subah Subah</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209075500 +0530" stop="20200209081500 +0530" channel="AAJ TAK">
+    <title lang="en">Aapke Taare</title>
+    <desc lang="en">Learn about what is in store for the future based on horoscopic predictions.(n)</desc>
+  </programme>
+  <programme start="20200209081500 +0530" stop="20200209083000 +0530" channel="AAJ TAK">
+    <title lang="en">10 Minute 50 Khabar</title>
+    <desc lang="en">An uninterrupted news bulletin that gives 50 news headlines in just a matter of ten minutes.(n)</desc>
+  </programme>
+  <programme start="20200209083000 +0530" stop="20200209085000 +0530" channel="AAJ TAK">
+    <title lang="en">Nonstop 100</title>
+    <desc lang="en">An uninterrupted news bulletin without any breaks and commercials.(n)</desc>
+  </programme>
+  <programme start="20200209085000 +0530" stop="20200209090000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209092500 +0530" channel="AAJ TAK">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209092500 +0530" stop="20200209094000 +0530" channel="AAJ TAK">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209094000 +0530" stop="20200209100000 +0530" channel="AAJ TAK">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209101000 +0530" channel="AAJ TAK">
+    <title lang="en">Vande Matram</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209101000 +0530" stop="20200209103000 +0530" channel="AAJ TAK">
+    <title lang="en">Vande Matram</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209103000 +0530" stop="20200209105500 +0530" channel="AAJ TAK">
+    <title lang="en">Vande Matram</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209105500 +0530" stop="20200209111000 +0530" channel="AAJ TAK">
+    <title lang="en">Shatak Aajtak</title>
+    <desc lang="en">The host provides an insight into the top news stories and trending topics of the day.(n)</desc>
+  </programme>
+  <programme start="20200209111000 +0530" stop="20200209113000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209113500 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209113500 +0530" stop="20200209120000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209121000 +0530" channel="AAJ TAK">
+    <title lang="en">10 Minute 50 Khabar</title>
+    <desc lang="en">An uninterrupted news bulletin that gives 50 news headlines in just a matter of ten minutes.(n)</desc>
+  </programme>
+  <programme start="20200209121000 +0530" stop="20200209123000 +0530" channel="AAJ TAK">
+    <title lang="en">Adbhut Avishvasniya Akalpniya</title>
+    <desc lang="en">The anchor sheds light on some inexplicable and paranormal events that have occurred around the world and baffled humanity.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="AAJ TAK">
+    <title lang="en">Adbhut Avishvasniya Akalpniya</title>
+    <desc lang="en">The anchor sheds light on some inexplicable and paranormal events that have occurred around the world and baffled humanity.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209131000 +0530" channel="AAJ TAK">
+    <title lang="en">Viral Test</title>
+    <desc lang="en">The host discusses popular news topics and sheds light on various aspects of the stories.(n)</desc>
+  </programme>
+  <programme start="20200209131000 +0530" stop="20200209140000 +0530" channel="AAJ TAK">
+    <title lang="en">Viral Test</title>
+    <desc lang="en">The host discusses popular news topics and sheds light on various aspects of the stories.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="AAJ TAK">
+    <title lang="en">Saas Bahu Aur Betiyan</title>
+    <desc lang="en">Take a look at the behind-the-scene moments and snippets from some of the most popular TV shows.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209153000 +0530" channel="AAJ TAK">
+    <title lang="en">Saas Bahu Aur Betiyan</title>
+    <desc lang="en">Take a look at the behind-the-scene moments and snippets from some of the most popular TV shows.(n)</desc>
+  </programme>
+  <programme start="20200209153000 +0530" stop="20200209155500 +0530" channel="AAJ TAK">
+    <title lang="en">Dharm</title>
+    <desc lang="en">Show tells us about various philosophies of religion and spiritualities associated with it.(n)</desc>
+  </programme>
+  <programme start="20200209155500 +0530" stop="20200209161000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209161000 +0530" stop="20200209163000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209163000 +0530" stop="20200209170000 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="AAJ TAK">
+    <title lang="en">Dangal</title>
+    <desc lang="en">A panel of experts with contradicting opinions discusses and debates on pressing issues of the country.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="AAJ TAK">
+    <title lang="en">Dangal</title>
+    <desc lang="en">A panel of experts with contradicting opinions discusses and debates on pressing issues of the country.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209190000 +0530" channel="AAJ TAK">
+    <title lang="en">Halla Bol</title>
+    <desc lang="en">This program highlights some of the major issues that are of concern to the nation. It includes people posing serious questions to the decision makers of the country.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209193000 +0530" channel="AAJ TAK">
+    <title lang="en">Desh Tak</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209193000 +0530" stop="20200209195500 +0530" channel="AAJ TAK">
+    <title lang="en">Cricket</title>
+    <desc lang="en">This program shows the news about cricket and update us.(n)</desc>
+  </programme>
+  <programme start="20200209195500 +0530" stop="20200209201000 +0530" channel="AAJ TAK">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209201000 +0530" stop="20200209203000 +0530" channel="AAJ TAK">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209203000 +0530" stop="20200209205500 +0530" channel="AAJ TAK">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209205500 +0530" stop="20200209211000 +0530" channel="AAJ TAK">
+    <title lang="en">Shatak Aajtak</title>
+    <desc lang="en">The host provides an insight into the top news stories and trending topics of the day.(n)</desc>
+  </programme>
+  <programme start="20200209211000 +0530" stop="20200209213000 +0530" channel="AAJ TAK">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">Daily News show on burning issues of the day is shown and discussed.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209220000 +0530" channel="AAJ TAK">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">Daily News show on burning issues of the day is shown and discussed.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209230000 +0530" channel="AAJ TAK">
+    <title lang="en">Shwetpatra</title>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="AAJ TAK">
+    <title lang="en">Kahani</title>
+    <desc lang="en">Take a look at the life story of various personalities and learn about the interesting and unknown aspects of their lives.(n)</desc>
+  </programme>
+  <programme start="20200209233000 +0530" stop="20200209233500 +0530" channel="AAJ TAK">
+    <title lang="en">Kahani</title>
+    <desc lang="en">Take a look at the life story of various personalities and learn about the interesting and unknown aspects of their lives.(n)</desc>
+  </programme>
   <programme start="20200209000000 +0530" stop="20200209010000 +0530" channel="ANIMAL PLANET ">
     <title lang="en">Spy In The Wild</title>
     <desc lang="en">Polar bears are deemed by many to be the most charismatic and elusive bears of all.(n)</desc>
@@ -125,5 +419,1140 @@
   <programme start="20200209215800 +0530" stop="20200209225800 +0530" channel="ANIMAL PLANET ">
     <title lang="en">Weird True &amp; Freaky</title>
     <desc lang="en">Sudden deadly collisions real-life zombie slaves and tyrants fighting to end all competition. These are the scariest most unbelievable animal encounters across the globe.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209003000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209003000 +0530" stop="20200209010000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209010000 +0530" stop="20200209012200 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209012200 +0530" stop="20200209014400 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209014400 +0530" stop="20200209020600 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209020600 +0530" stop="20200209022800 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209022800 +0530" stop="20200209025000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209025000 +0530" stop="20200209031200 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209031200 +0530" stop="20200209033400 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209033400 +0530" stop="20200209035600 +0530" channel="SONY SAB">
+    <title lang="en">Bhakharwadi</title>
+    <desc lang="en">The show which is set in Pune will tackle the ideological differences between a Marathi and a Gujarati family with situational comedy.(n)</desc>
+  </programme>
+  <programme start="20200209035600 +0530" stop="20200209041800 +0530" channel="SONY SAB">
+    <title lang="en">Aladdin - Naam Toh Suna Hoga</title>
+    <desc lang="en">Aladdin, a young man, falls in love with Princess Yasmine. His life changes after he finds a magical lamp which has a gene inside.(n)</desc>
+  </programme>
+  <programme start="20200209041800 +0530" stop="20200209044000 +0530" channel="SONY SAB">
+    <title lang="en">Jijaji Chhat Per Hain</title>
+    <desc lang="en">In order to convince a conservative flat owner, two male individuals, who are on a desperate lookout for a house, decide to disguise themselves as a married couple.(n)</desc>
+  </programme>
+  <programme start="20200209044000 +0530" stop="20200209050000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209053000 +0530" channel="SONY SAB">
+    <title lang="en">Religious</title>
+    <desc lang="en">A religious and devotional programme with spiritual discourses.(n)</desc>
+  </programme>
+  <programme start="20200209053000 +0530" stop="20200209060000 +0530" channel="SONY SAB">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products that can be purchased from the comfort of one's home.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209063000 +0530" channel="SONY SAB">
+    <title lang="en">Religious</title>
+    <desc lang="en">A religious and devotional programme with spiritual discourses.(n)</desc>
+  </programme>
+  <programme start="20200209063000 +0530" stop="20200209070000 +0530" channel="SONY SAB">
+    <title lang="en">Religious</title>
+    <desc lang="en">A religious and devotional programme with spiritual discourses.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209073000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209073000 +0530" stop="20200209080000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209080000 +0530" stop="20200209083000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209083000 +0530" stop="20200209090000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209093000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209103000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209103000 +0530" stop="20200209110000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209113000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209120000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209123000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209153000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209153000 +0530" stop="20200209160000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209163000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209163000 +0530" stop="20200209170000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209190000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209193000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209193000 +0530" stop="20200209200000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209203000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209203000 +0530" stop="20200209210000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209213000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209220000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209223000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209223000 +0530" stop="20200209230000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="SONY SAB">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209011000 +0530" channel="SONY MAX">
+    <title lang="en">Sabse Bada Zero</title>
+    <desc lang="en">Lucky is a young man whose life changes when he finds a bag containing money stolen from a bank and the thief sets out to find him.(n)</desc>
+  </programme>
+  <programme start="20200209011000 +0530" stop="20200209024900 +0530" channel="SONY MAX">
+    <title lang="en">Nayak The Hero 3</title>
+  </programme>
+  <programme start="20200209024900 +0530" stop="20200209031200 +0530" channel="SONY MAX">
+    <title lang="en">Extraaa Shots Special</title>
+    <desc lang="en">The cast members speak about the plot and making of a movie and share their on-set experiences and behind-the-scenes footage.(n)</desc>
+  </programme>
+  <programme start="20200209031200 +0530" stop="20200209033700 +0530" channel="SONY MAX">
+    <title lang="en">Extraaa Shots Special</title>
+    <desc lang="en">The cast members speak about the plot and making of a movie and share their on-set experiences and behind-the-scenes footage.(n)</desc>
+  </programme>
+  <programme start="20200209033700 +0530" stop="20200209035400 +0530" channel="SONY MAX">
+    <title lang="en">Extraaa Shots Special</title>
+    <desc lang="en">The cast members speak about the plot and making of a movie and share their on-set experiences and behind-the-scenes footage.(n)</desc>
+  </programme>
+  <programme start="20200209035400 +0530" stop="20200209040000 +0530" channel="SONY MAX">
+    <title lang="en">Extraaa Shots Special</title>
+    <desc lang="en">The cast members speak about the plot and making of a movie and share their on-set experiences and behind-the-scenes footage.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209062000 +0530" channel="SONY MAX">
+    <title lang="en">Journey Bombay to Goa: Laughter Unlimited</title>
+    <desc lang="en">Lal and his brother-in-law assemble a transport bus from Bombay to Goa. They have a passenger, claiming to have a hidden treasure. He gives them a map, thus beginning a search for the treasure.(n)</desc>
+  </programme>
+  <programme start="20200209062000 +0530" stop="20200209081900 +0530" channel="SONY MAX">
+    <title lang="en">The Mummy: Tomb Of The Dragon Emperor</title>
+    <desc lang="en">Adventurer Rick O'Connell and Egyptologist Evelyn, along with a bunch of archaeologists, inadvertently wake up a bedevilled mummy during an archaeological excavation at the ancient city of Hamunaptra.(n)</desc>
+  </programme>
+  <programme start="20200209081900 +0530" stop="20200209111900 +0530" channel="SONY MAX">
+    <title lang="en">The Return Of Rebel</title>
+    <desc lang="en">Rishi's father is killed by his own deceiving brother and a rival who team up against him.(n)</desc>
+  </programme>
+  <programme start="20200209111900 +0530" stop="20200209145000 +0530" channel="SONY MAX">
+    <title lang="en">Bahubali: The Beginning</title>
+    <desc lang="en">A dispute between brothers spans across two generations in this two part period drama where brothers Baahubali and Bhallaladeva fight for the throne to Mahishmathi Kingdom.(n)</desc>
+  </programme>
+  <programme start="20200209145000 +0530" stop="20200209175400 +0530" channel="SONY MAX">
+    <title lang="en">Kanchana 2</title>
+    <desc lang="en">A couple of revenge seeking ghosts haunts an innocent man, and the people surrounding him, to get justice for their murders.(n)</desc>
+  </programme>
+  <programme start="20200209175400 +0530" stop="20200209195500 +0530" channel="SONY MAX">
+    <title lang="en">WWE SUNDAY DHAMAAL</title>
+    <desc lang="en">This show features a family-friendly entertainment and best action from WWE flagship programs.(n)</desc>
+  </programme>
+  <programme start="20200209195500 +0530" stop="20200209232100 +0530" channel="SONY MAX">
+    <title lang="en">Sooryavansham</title>
+    <desc lang="en">Poignant tale of a young man striving for his uncompromising father's love and affection. The father, however, treats his son like a servant when he does not meet his expectations.(n)</desc>
+  </programme>
+  <programme start="20200209014700 +0530" stop="20200209043330 +0530" channel="STAR GOLD">
+    <title lang="en">Hum</title>
+    <desc lang="en">Bhaktawar is at loggerheads with the dockyard's union leader, Tiger. In a fight, Bhaktawar is killed and Tiger has to flee.(n)</desc>
+  </programme>
+  <programme start="20200209043330 +0530" stop="20200209045300 +0530" channel="STAR GOLD">
+    <title lang="en">Filler</title>
+    <desc lang="en">An entertainment based programme.(n)</desc>
+  </programme>
+  <programme start="20200209045300 +0530" stop="20200209073800 +0530" channel="STAR GOLD">
+    <title lang="en">Savyasachi</title>
+    <desc lang="en">A twin brother of the protagonist is absorbed due to Vanishing Twin Syndrome and controls his left hand. When his life is threatened, the twin brother that never existed protects him like a shield.(n)</desc>
+  </programme>
+  <programme start="20200209073800 +0530" stop="20200209104247 +0530" channel="STAR GOLD">
+    <title lang="en">Housefull 3</title>
+    <desc lang="en">Batook, a rich businessman, doesn't want his three daughters to get married because of a superstitious belief. Now, their boyfriends must prove to Batook that they are perfect for his daughters.(n)</desc>
+  </programme>
+  <programme start="20200209104247 +0530" stop="20200209135545 +0530" channel="STAR GOLD">
+    <title lang="en">Super 30</title>
+    <desc lang="en">Anand Kumar, a mathematician from Patna, India, works his way through challenges towards success before running the Super 30 programme for IIT aspirants in Patna.(n)</desc>
+  </programme>
+  <programme start="20200209135545 +0530" stop="20200209165843 +0530" channel="STAR GOLD">
+    <title lang="en">Thalaivaa The Leader</title>
+    <desc lang="en">Thalaivaa The Leader Release Year: 2013 Director: A L Vijay.(n)</desc>
+  </programme>
+  <programme start="20200209165843 +0530" stop="20200209195518 +0530" channel="STAR GOLD">
+    <title lang="en">Indian Soldier Never On Holiday</title>
+    <desc lang="en">Jagdish (Vijay), an army captain, is back in Mumbai for a holiday to be with his parents and two sisters. They want him to get married and finds a bride Nisha (Kajal Aggarwal) for him. After the usual.(n)</desc>
+  </programme>
+  <programme start="20200209195518 +0530" stop="20200209223314 +0530" channel="STAR GOLD">
+    <title lang="en">Vardi Ka Dum</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209005800 +0530" channel="ZEE ACTION">
+    <title lang="en">Rogue</title>
+    <desc lang="en">Movie Star Cast:Ishan Mannara Chopra Angela Krislinzki.(n)</desc>
+  </programme>
+  <programme start="20200209005800 +0530" stop="20200209015800 +0530" channel="ZEE ACTION">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209015800 +0530" stop="20200209033300 +0530" channel="ZEE ACTION">
+    <title lang="en">Ek Thi Chandrika</title>
+    <desc lang="en">A newly married couple shifts to a new house. However, their lives take a drastic turn after the wife gets possessed by an evil spirit.(n)</desc>
+  </programme>
+  <programme start="20200209033300 +0530" stop="20200209055600 +0530" channel="ZEE ACTION">
+    <title lang="en">Chiranjeevi</title>
+    <desc lang="en">Chiranjeevi is a action movie in which, Chiranjeevi is the son of a sincere Police S.P (Sathyanarayana).(n)</desc>
+  </programme>
+  <programme start="20200209055600 +0530" stop="20200209080100 +0530" channel="ZEE ACTION">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209080100 +0530" stop="20200209105000 +0530" channel="ZEE ACTION">
+    <title lang="en">Mumbai Tyson</title>
+    <desc lang="en">Ashok, a fun-loving boy, falls in love with Anjali. Later, Ashok and Anjali face difficulties when Anjali's father disapproves of their relationship.(n)</desc>
+  </programme>
+  <programme start="20200209105000 +0530" stop="20200209141700 +0530" channel="ZEE ACTION">
+    <title lang="en">Phool Bane Angaarey</title>
+    <desc lang="en">Based in Santa Cruz, Bombay, Usha undertakes to look after her family consisting of her widowed mother and younger brother, Ashish, and even decides to not marry her army officer sweetheart, Captain R.(n)</desc>
+  </programme>
+  <programme start="20200209141700 +0530" stop="20200209173300 +0530" channel="ZEE ACTION">
+    <title lang="en">Hatya</title>
+    <desc lang="en">Hatya is a spine-chilling thriller; the film is about the coming together of a deaf and dumb child and a man who has lost everything.(n)</desc>
+  </programme>
+  <programme start="20200209173300 +0530" stop="20200209195600 +0530" channel="ZEE ACTION">
+    <title lang="en">Rowdy Rajkumar</title>
+    <desc lang="en">Arjun, a small-time farmer, decides to steal and loots money from corrupt government officials in order to develop his remote village.(n)</desc>
+  </programme>
+  <programme start="20200209195600 +0530" stop="20200209221300 +0530" channel="ZEE ACTION">
+    <title lang="en">Parmanu: The Story of Pokhran</title>
+    <desc lang="en">Ashwat Raina and his teammates arrive in Pokhran to re-conduct a confidential nuclear test where they face challenges from the American Lacrosse satellite and local spies.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209002600 +0530" channel="ROMEDY NOW">
+    <title lang="en">The Little Hours</title>
+    <desc lang="en">In the Middle Ages a young servant fleeing from his master takes refuge at a convent full of emotionally unstable nuns. Introduced as a deaf mute man he must fight to hold his cover as the nuns try to resist temptation.(n)</desc>
+  </programme>
+  <programme start="20200209002600 +0530" stop="20200209022000 +0530" channel="ROMEDY NOW">
+    <title lang="en">Girls Trip</title>
+    <desc lang="en">The party heads to New Orleans for an ensemble cast in this acclaimed comedy. On a wild reunion trip four lifelong friends find romance sisterhood and absolute chaos.(n)</desc>
+  </programme>
+  <programme start="20200209022000 +0530" stop="20200209030000 +0530" channel="ROMEDY NOW">
+    <title lang="en">The Pilgrim</title>
+    <desc lang="en">Charlie escapes from prison and dons the avatar of a preacher. He is mistaken for the minister of the town of Devil's Gulch. Soon, the sheriff catches hold of him and takes him to the Mexican border.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209043000 +0530" channel="ROMEDY NOW">
+    <title lang="en">Little Manhattan</title>
+    <desc lang="en">It puppy love in the Upper West Side, as we are introduced to our narrator, a 10-year-old boy named Gabe.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209051600 +0530" channel="ROMEDY NOW">
+    <title lang="en">The Ellen DeGeneres Show</title>
+    <desc lang="en">Actress and comedian Ellen DeGeneres talks to celebrities and interacts with the audience in her own inimitable way, besides witnessing performances by comedic, musical and cinematic personalities.(n)</desc>
+  </programme>
+  <programme start="20200209051600 +0530" stop="20200209053100 +0530" channel="ROMEDY NOW">
+    <title lang="en">Dough &amp; Dynamite Part 1</title>
+    <desc lang="en">Filler.(n)</desc>
+  </programme>
+  <programme start="20200209053100 +0530" stop="20200209054500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Dough &amp; Dynamite Part 2</title>
+    <desc lang="en">Filler.(n)</desc>
+  </programme>
+  <programme start="20200209054500 +0530" stop="20200209071500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Honeymoon In Vegas</title>
+    <desc lang="en">Jack, a commitment-phobic man, loses $50,000 to Tommy, a conman, in a rigged game of poker. Tommy, in an attempt to settle the debt, demands to spend a weekend with Jack's girlfriend Betsy.(n)</desc>
+  </programme>
+  <programme start="20200209071500 +0530" stop="20200209090000 +0530" channel="ROMEDY NOW">
+    <title lang="en">Big Stone Gap</title>
+    <desc lang="en">In a small town nestled in the Appalachian Mountains of Virginia self-proclaimed spinster Ave Maria Mulligan finds her life shaken up and forever changed after learning a long-buried family secret.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209102500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Mune</title>
+    <desc lang="en">When a faun named Mune becomes the Guardian of the Moon little did he had unprepared experience with the Moon and an accident that could put both the Moon and the Sun in danger including a corrupt titan named Necross who wants the Sun for hi.(n)</desc>
+  </programme>
+  <programme start="20200209102500 +0530" stop="20200209121500 +0530" channel="ROMEDY NOW">
+    <title lang="en">The Confirmation</title>
+    <desc lang="en">A divorced father and his eight-year-old son are about to spend a somewhat predictable weekend together nevertheless when a valuable toolbox gets stolen the search for the thieves will soon turn into a true family bonding.(n)</desc>
+  </programme>
+  <programme start="20200209121500 +0530" stop="20200209134500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Breaking Up</title>
+    <desc lang="en">A modern love story where the couple is in an off again on again relationship, but cannot say their goodbyes.(n)</desc>
+  </programme>
+  <programme start="20200209134500 +0530" stop="20200209151500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Smurfs: The Lost Village</title>
+    <desc lang="en">In this fully animated all-new take on the Smurfs a mysterious map sets Smurfette and her friends Brainy Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.(n)</desc>
+  </programme>
+  <programme start="20200209151500 +0530" stop="20200209165500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Made Of Honor</title>
+    <desc lang="en">A guy in love with an engaged woman tries to win her over after she asks him to be her maid of honor.(n)</desc>
+  </programme>
+  <programme start="20200209165500 +0530" stop="20200209191600 +0530" channel="ROMEDY NOW">
+    <title lang="en">Jerry Maguire</title>
+    <desc lang="en">Jerry Maguire (Tom Cruise) is an extremely successful sports agent who works for a high-powered agency. Things are going good until Jerry acquires a conscience. He is fired, loses all his clients exce.(n)</desc>
+  </programme>
+  <programme start="20200209191600 +0530" stop="20200209210000 +0530" channel="ROMEDY NOW">
+    <title lang="en">Moonstruck</title>
+    <desc lang="en">Loretta Castorini a book keeper from Brooklyn New York finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209223500 +0530" channel="ROMEDY NOW">
+    <title lang="en">Marmaduke</title>
+    <desc lang="en">A suburban family moves to a new neighborhood with their large yet lovable Great Dane who has a tendency to wreak havoc in his own oblivious way.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209013800 +0530" channel="SONY PIX">
+    <title lang="en">Apocalypto</title>
+    <desc lang="en">As the Mayan kingdom faces its decline a young man is taken on a perilous journey to a world ruled by fear and oppression.(n)</desc>
+  </programme>
+  <programme start="20200209013800 +0530" stop="20200209041100 +0530" channel="SONY PIX">
+    <title lang="en">The Fugitive</title>
+    <desc lang="en">Dr. Richard Kimble unjustly accused of killing his wife must find the real one-armed killer while avoiding Marshal Sam Gerard.(n)</desc>
+  </programme>
+  <programme start="20200209041100 +0530" stop="20200209062700 +0530" channel="SONY PIX">
+    <title lang="en">Invictus</title>
+    <desc lang="en">Nelson Mandela in his first term as the South African President tries to unite his countrymen by supporting the South African rugby team's underdog bid for the 1995 World Cup Championship.(n)</desc>
+  </programme>
+  <programme start="20200209062700 +0530" stop="20200209075600 +0530" channel="SONY PIX">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">Action. Shaun Russell takes her son and daughter on a weekend getaway to her late father's secluded high-tech vacation home in the countryside.(n)</desc>
+  </programme>
+  <programme start="20200209075600 +0530" stop="20200209092600 +0530" channel="SONY PIX">
+    <title lang="en">The Man With The Iron Fists 2</title>
+    <desc lang="en">After being injured, Thaddeus is saved by a village miner who offers him refuge and takes care of him. As the days progress, he becomes involved in a fight between the villagers and their evil leader.(n)</desc>
+  </programme>
+  <programme start="20200209092600 +0530" stop="20200209110800 +0530" channel="SONY PIX">
+    <title lang="en">We're the Millers</title>
+    <desc lang="en">Jennifer Aniston is a stripper helping out a pot dealer by posing as one quarter of his fake family when he heads to Mexico to retrieve a shipment of weed.(n)</desc>
+  </programme>
+  <programme start="20200209110800 +0530" stop="20200209125900 +0530" channel="SONY PIX">
+    <title lang="en">The Fast and the Furious: Tokyo Drift</title>
+    <desc lang="en">An American high-school student is sent to Tokyo and gets caught up in the city's underground car-racing scene Lucas Black stars. Strong language.(n)</desc>
+  </programme>
+  <programme start="20200209125900 +0530" stop="20200209150800 +0530" channel="SONY PIX">
+    <title lang="en">Boy Erased</title>
+    <desc lang="en">Biographical drama. Jared (Lucas Hedges) the son of a Baptist pastor in a small American town is forced to participate in a church-supported gay conversion program after being forcibly outed to his parents (Nicole Kid.(n)</desc>
+  </programme>
+  <programme start="20200209150800 +0530" stop="20200209171700 +0530" channel="SONY PIX">
+    <title lang="en">The Conjuring 2</title>
+    <desc lang="en">Following the record-breaking success of The Conjuring New Line's supernatural thriller The Conjuring 2 manifests another real case from the files of renowned demonologists Ed and Lorraine Warren.(n)</desc>
+  </programme>
+  <programme start="20200209171700 +0530" stop="20200209190700 +0530" channel="SONY PIX">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">Action. When the world's tallest and safest building catches on fire Will Sawyer (Dwayne Johnson) a former FBI agent gets framed for it.(n)</desc>
+  </programme>
+  <programme start="20200209190700 +0530" stop="20200209205900 +0530" channel="SONY PIX">
+    <title lang="en">Before Sunrise</title>
+    <desc lang="en">A young man and woman meet on a train in Europe and wind up spending one evening together in Vienna. Unfortunately both know that this will probably be their only night together.(n)</desc>
+  </programme>
+  <programme start="20200209205900 +0530" stop="20200209230700 +0530" channel="SONY PIX">
+    <title lang="en">Boy Erased</title>
+    <desc lang="en">Biographical drama. Jared (Lucas Hedges) the son of a Baptist pastor in a small American town is forced to participate in a church-supported gay conversion program after being forcibly outed to his parents (Nicole Kid.(n)</desc>
+  </programme>
+  <programme start="20200209023000 +0530" stop="20200209030000 +0530" channel="NDTV INDIA">
+    <title lang="en">Politics Ka Champion Kaun</title>
+    <desc lang="en">Left vs Right views on Politics.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209043000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209050000 +0530" channel="NDTV INDIA">
+    <title lang="en">Raftaar</title>
+    <desc lang="en">A pacy auto show packed with a lot of on-road action, latest cars, bikes and other automobiles.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209070000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209073000 +0530" channel="NDTV INDIA">
+    <title lang="en">News@7</title>
+    <desc lang="en">A news bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200209073000 +0530" stop="20200209080000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Non-stop</title>
+    <desc lang="en">Speed News - News without a pause, back-to-back.(n)</desc>
+  </programme>
+  <programme start="20200209080000 +0530" stop="20200209083000 +0530" channel="NDTV INDIA">
+    <title lang="en">Namaskar India</title>
+    <desc lang="en">Start your weekend with the morning news.(n)</desc>
+  </programme>
+  <programme start="20200209083000 +0530" stop="20200209090000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Non-stop</title>
+    <desc lang="en">Speed News - News without a pause, back-to-back.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209093000 +0530" channel="NDTV INDIA">
+    <title lang="en">Namaskar India</title>
+    <desc lang="en">Start your weekend with the morning news.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Non-stop</title>
+    <desc lang="en">Speed News - News without a pause, back-to-back.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209103000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209103000 +0530" stop="20200209110000 +0530" channel="NDTV INDIA">
+    <title lang="en">Gadbo Nava Chhattisgarh</title>
+    <desc lang="en">A series that showcases the best of Chhattisgarh, from welfare schemes to tribal culture and youth empowerment to tackling malnourishment, through documentaries and conclave sessions.(n)</desc>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209113000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209120000 +0530" channel="NDTV INDIA">
+    <title lang="en">Special Interview With Venkatram Mamillapalle</title>
+    <desc lang="en">NDTV talks to MD and Country Head, Renault India.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209123000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Non-stop</title>
+    <desc lang="en">Speed News - News without a pause, back-to-back.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="NDTV INDIA">
+    <title lang="en">Raftaar</title>
+    <desc lang="en">A pacy auto show packed with a lot of on-road action, latest cars, bikes and other automobiles.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209150000 +0530" channel="NDTV INDIA">
+    <title lang="en">Hum Log</title>
+    <desc lang="en">Eminent politicians &amp; personalities from a cross section of society are grilled by a live audience in this talk show.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209160000 +0530" channel="NDTV INDIA">
+    <title lang="en">Muqabla</title>
+    <desc lang="en">Top politicians combat each other with the help of a live audience in this formal debate.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209163000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209163000 +0530" stop="20200209170000 +0530" channel="NDTV INDIA">
+    <title lang="en">Cell Guru</title>
+    <desc lang="en">All that's latest in the world of mobile phones, all the gadgets, the features &amp; the technology on this show.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="NDTV INDIA">
+    <title lang="en">Politics Ka Champion Kaun</title>
+    <desc lang="en">Left vs Right views on Politics.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209183000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209183000 +0530" stop="20200209190000 +0530" channel="NDTV INDIA">
+    <title lang="en">Raftaar</title>
+    <desc lang="en">A pacy auto show packed with a lot of on-road action, latest cars, bikes and other automobiles.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209193000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209193000 +0530" stop="20200209200000 +0530" channel="NDTV INDIA">
+    <title lang="en">Special Interview With Venkatram Mamillapalle</title>
+    <desc lang="en">NDTV talks to MD and Country Head, Renault India.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209210000 +0530" channel="NDTV INDIA">
+    <title lang="en">Hum Log</title>
+    <desc lang="en">Eminent politicians &amp; personalities from a cross section of society are grilled by a live audience in this talk show.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209213000 +0530" channel="NDTV INDIA">
+    <title lang="en">India @ 9</title>
+    <desc lang="en">The 9pm news on NDTV India.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209220000 +0530" channel="NDTV INDIA">
+    <title lang="en">Politics Ka Champion Kaun</title>
+    <desc lang="en">Left vs Right views on Politics.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209223000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209223000 +0530" stop="20200209230000 +0530" channel="NDTV INDIA">
+    <title lang="en">City Express</title>
+    <desc lang="en">A special report.(n)</desc>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="NDTV INDIA">
+    <title lang="en">News Ndtv India</title>
+    <desc lang="en">Go live to the locations of breaking stories, where our reporters update you from the scene of each headline.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209003000 +0530" channel="NEWS NATION">
+    <title lang="en">Aadhi Raat Puri Khabar</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209003000 +0530" stop="20200209010000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209010000 +0530" stop="20200209013000 +0530" channel="NEWS NATION">
+    <title lang="en">News</title>
+    <desc lang="en">Take a look at the latest events, developments, inventions, discoveries and happenings around the world.(n)</desc>
+  </programme>
+  <programme start="20200209013000 +0530" stop="20200209020000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209020000 +0530" stop="20200209023000 +0530" channel="NEWS NATION">
+    <title lang="en">News</title>
+    <desc lang="en">Take a look at the latest events, developments, inventions, discoveries and happenings around the world.(n)</desc>
+  </programme>
+  <programme start="20200209023000 +0530" stop="20200209030000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209033000 +0530" channel="NEWS NATION">
+    <title lang="en">News</title>
+    <desc lang="en">Take a look at the latest events, developments, inventions, discoveries and happenings around the world.(n)</desc>
+  </programme>
+  <programme start="20200209033000 +0530" stop="20200209040000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209043000 +0530" channel="NEWS NATION">
+    <title lang="en">News</title>
+    <desc lang="en">Take a look at the latest events, developments, inventions, discoveries and happenings around the world.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209050000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209053000 +0530" channel="NEWS NATION">
+    <title lang="en">News</title>
+    <desc lang="en">Take a look at the latest events, developments, inventions, discoveries and happenings around the world.(n)</desc>
+  </programme>
+  <programme start="20200209053000 +0530" stop="20200209060000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209063000 +0530" channel="NEWS NATION">
+    <title lang="en">Top 10</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209063000 +0530" stop="20200209070000 +0530" channel="NEWS NATION">
+    <title lang="en">Taza Hai Tez Hai</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209073000 +0530" channel="NEWS NATION">
+    <title lang="en">Good Morning Nation</title>
+    <desc lang="en">A first glance at the latest social, political and economic news from around the world.(n)</desc>
+  </programme>
+  <programme start="20200209073000 +0530" stop="20200209080000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209080000 +0530" stop="20200209083000 +0530" channel="NEWS NATION">
+    <title lang="en">Bulet Bulletin</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209083000 +0530" stop="20200209090000 +0530" channel="NEWS NATION">
+    <title lang="en">Nation Special</title>
+    <desc lang="en">This news bulletin chronicles the recent top stories and the day's important incidents.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209093000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209103000 +0530" channel="NEWS NATION">
+    <title lang="en">Aaj Ki Taza Khabar</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209103000 +0530" stop="20200209110000 +0530" channel="NEWS NATION">
+    <title lang="en">Aaj Ki Taza Khabar</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209113000 +0530" channel="NEWS NATION">
+    <title lang="en">Aaj Ki Taza Khabar</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209120000 +0530" channel="NEWS NATION">
+    <title lang="en">Nation Special</title>
+    <desc lang="en">This news bulletin chronicles the recent top stories and the day's important incidents.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209123000 +0530" channel="NEWS NATION">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="NEWS NATION">
+    <title lang="en">Dophar 100 Khabar</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="NEWS NATION">
+    <title lang="en">Lie Ditector Test</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="NEWS NATION">
+    <title lang="en">News@2</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209153000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209153000 +0530" stop="20200209160000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209163000 +0530" channel="NEWS NATION">
+    <title lang="en">4 Baje 40 Khabar</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209163000 +0530" stop="20200209170000 +0530" channel="NEWS NATION">
+    <title lang="en">Rahasya</title>
+    <desc lang="en">Take a look as uncanny happenings around India and questions that are sure to baffle are addressed and answered.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="NEWS NATION">
+    <title lang="en">Sarpat 100 Khabar + Dilli 70</title>
+    <desc lang="en">Fast News + Election Special.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209183000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209183000 +0530" stop="20200209190000 +0530" channel="NEWS NATION">
+    <title lang="en">Tea Point Dilli</title>
+    <desc lang="en">Election Special.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209193000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209193000 +0530" stop="20200209200000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209203000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209203000 +0530" stop="20200209210000 +0530" channel="NEWS NATION">
+    <title lang="en">Lie Ditector Test</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209213000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209220000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209223000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209223000 +0530" stop="20200209230000 +0530" channel="NEWS NATION">
+    <title lang="en">News Special</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="NEWS NATION">
+    <title lang="en">News@11</title>
+    <desc lang="en">This is a news and analysis program which features latest regional and national news.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209001500 +0530" channel="INDIA TV">
+    <title lang="en">Aaj Ki Baat Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on current affairs along with a detailed analysis on the topics.(n)</desc>
+  </programme>
+  <programme start="20200209001500 +0530" stop="20200209003000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209003000 +0530" stop="20200209010000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209010000 +0530" stop="20200209013000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209013000 +0530" stop="20200209020000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209020000 +0530" stop="20200209023000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209023000 +0530" stop="20200209030000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209033000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209033000 +0530" stop="20200209040000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209043000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209050000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209050000 +0530" stop="20200209053000 +0530" channel="INDIA TV">
+    <title lang="en">Advertisement</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209053000 +0530" stop="20200209060000 +0530" channel="INDIA TV">
+    <title lang="en">Advertisement</title>
+    <desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209063000 +0530" channel="INDIA TV">
+    <title lang="en">Jago India</title>
+    <desc lang="en">The hosts present the latest news, updates and developments trending across India.(n)</desc>
+  </programme>
+  <programme start="20200209063000 +0530" stop="20200209070000 +0530" channel="INDIA TV">
+    <title lang="en">Jago India</title>
+    <desc lang="en">The hosts present the latest news, updates and developments trending across India.(n)</desc>
+  </programme>
+  <programme start="20200209070000 +0530" stop="20200209073000 +0530" channel="INDIA TV">
+    <title lang="en">Jago India</title>
+    <desc lang="en">The hosts present the latest news, updates and developments trending across India.(n)</desc>
+  </programme>
+  <programme start="20200209073000 +0530" stop="20200209083000 +0530" channel="INDIA TV">
+    <title lang="en">Bhavishyawani</title>
+    <desc lang="en">A renowned foreteller predicts events based on his expertise in astrology and numerology.(n)</desc>
+  </programme>
+  <programme start="20200209083000 +0530" stop="20200209090000 +0530" channel="INDIA TV">
+    <title lang="en">Jago India</title>
+    <desc lang="en">The hosts present the latest news, updates and developments trending across India.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209093000 +0530" channel="INDIA TV">
+    <title lang="en">Jago India</title>
+    <desc lang="en">The hosts present the latest news, updates and developments trending across India.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="INDIA TV">
+    <title lang="en">Jago India</title>
+    <desc lang="en">The hosts present the latest news, updates and developments trending across India.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209103000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209103000 +0530" stop="20200209110000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209113000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209120000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209123000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="INDIA TV">
+    <title lang="en">Saas Bahu Aur Suspense</title>
+    <desc lang="en">This programme showcases news from the television soap industry.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209153000 +0530" channel="INDIA TV">
+    <title lang="en">Saas Bahu Aur Suspense</title>
+    <desc lang="en">This programme showcases news from the television soap industry.(n)</desc>
+  </programme>
+  <programme start="20200209153000 +0530" stop="20200209160000 +0530" channel="INDIA TV">
+    <title lang="en">Special News</title>
+    <desc lang="en">A news bulletin that keeps the viewers updated with the latest national and international news.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209163000 +0530" channel="INDIA TV">
+    <title lang="en">Hindustan Hamara</title>
+    <desc lang="en">A news bulletin that keeps the viewers updated with the latest national and international news.(n)</desc>
+  </programme>
+  <programme start="20200209163000 +0530" stop="20200209170000 +0530" channel="INDIA TV">
+    <title lang="en">Delhi Kiski</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209190000 +0530" channel="INDIA TV">
+    <title lang="en">Kurukshetra</title>
+    <desc lang="en">This program features a battleground for elections.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209193000 +0530" channel="INDIA TV">
+    <title lang="en">Cricket Ki Baat</title>
+    <desc lang="en">In this talk show, Samip Rajguru interacts with well-known cricket experts and presents an analysis of the ongoing cricket events.(n)</desc>
+  </programme>
+  <programme start="20200209193000 +0530" stop="20200209200000 +0530" channel="INDIA TV">
+    <title lang="en">Chakravyuh</title>
+    <desc lang="en">A news bulletin that keeps the viewers updated with the latest national and international news.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209210000 +0530" channel="INDIA TV">
+    <title lang="en">Haqiquat Kya Hai ?</title>
+    <desc lang="en">Take a look as the host presents various facts about issues making headlines in the nation.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209213000 +0530" channel="INDIA TV">
+    <title lang="en">Aaj Ki Baat Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on current affairs along with a detailed analysis on the topics.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209220000 +0530" channel="INDIA TV">
+    <title lang="en">Aaj Ki Baat Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on current affairs along with a detailed analysis on the topics.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209223000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209223000 +0530" stop="20200209230000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="INDIA TV">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A special news bulletin that focuses on the big story of the day.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209060000 +0530" channel="TIMES NOW">
+    <title lang="en">News</title>
+    <desc lang="en">At 9 PM prime time, you will see navika kumar bring you the big debates.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209080000 +0530" channel="TIMES NOW">
+    <title lang="en">First Break</title>
+    <desc lang="en">Summarized update of what's happening around you. Firstbreak goes on air at 6 AM.(n)</desc>
+  </programme>
+  <programme start="20200209080000 +0530" stop="20200209090000 +0530" channel="TIMES NOW">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">This show cuts to the chase,gives all updates fast so that it fits your morning routine.(n)</desc>
+  </programme>
+  <programme start="20200209090000 +0530" stop="20200209093000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="TIMES NOW">
+    <title lang="en">Latitude</title>
+    <desc lang="en">Maroof Raza invites noted personalities from different fields as they discuss various social, political and economic issues.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209110000 +0530" channel="TIMES NOW">
+    <title lang="en">Frankly Speaking</title>
+    <desc lang="en">Frankly Speaking' is the biggest interview show of the country that has regularly made the headlines during more than 200+ exhaustively researched and perceptive one-on-one interviews and continues to.(n)</desc>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209123000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="TIMES NOW">
+    <title lang="en">The Autocar Show</title>
+    <desc lang="en">The host reviews the latest automobiles that have entered the Indian as well as international market.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="TIMES NOW">
+    <title lang="en">Speak For India</title>
+    <desc lang="en">Telecast of an event wherein students from various colleges participate in a debate competition in order to win the coveted title.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="TIMES NOW">
+    <title lang="en">Leaders Of Tomorrow Winning Pitch</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209153000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209153000 +0530" stop="20200209160000 +0530" channel="TIMES NOW">
+    <title lang="en">Leaders Of Tomorrow Winning Pitch</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209200000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209210000 +0530" channel="TIMES NOW">
+    <title lang="en">Frankly Speaking</title>
+    <desc lang="en">Frankly Speaking' is the biggest interview show of the country that has regularly made the headlines during more than 200+ exhaustively researched and perceptive one-on-one interviews and continues to.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209220000 +0530" channel="TIMES NOW">
+    <title lang="en">Newshour Weekend Edition</title>
+    <desc lang="en">At 9 PM prime time, you will see navika kumar bring you the big debates.(n)</desc>
+  </programme>
+  <programme start="20200209220000 +0530" stop="20200209230000 +0530" channel="TIMES NOW">
+    <title lang="en">Times Now Live</title>
+    <desc lang="en">The host presents the latest news updates and happenings related to various topics along with hard facts.(n)</desc>
+  </programme>
+  <programme start="20200209000000 +0530" stop="20200209013000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Delhi Big Fight</title>
+    <desc lang="en">In Depth analysis with NDTV's Vishnu Som on the Exit Polls of Delhi Assembly Elections 2020.(n)</desc>
+  </programme>
+  <programme start="20200209013000 +0530" stop="20200209023000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209023000 +0530" stop="20200209030000 +0530" channel="NDTV 24X7">
+    <title lang="en">Filmy Chakkar</title>
+    <desc lang="en">A look back at Bollywood's golden history through songs, film clips and interviews.(n)</desc>
+  </programme>
+  <programme start="20200209030000 +0530" stop="20200209033000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209033000 +0530" stop="20200209040000 +0530" channel="NDTV 24X7">
+    <title lang="en">Executive Decision With Former Finance Secretary Subhash Garg</title>
+    <desc lang="en">Sreenivasan Jain in conversation with ther former finance secretary.(n)</desc>
+  </programme>
+  <programme start="20200209040000 +0530" stop="20200209043000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209043000 +0530" stop="20200209060000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Delhi Big Fight</title>
+    <desc lang="en">In Depth analysis with NDTV's Vishnu Som on the Exit Polls of Delhi Assembly Elections 2020.(n)</desc>
+  </programme>
+  <programme start="20200209060000 +0530" stop="20200209080000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209080000 +0530" stop="20200209093000 +0530" channel="NDTV 24X7">
+    <title lang="en">Breakfast News</title>
+    <desc lang="en">The breakfast show to kick-start your day perfectly - overnight news headlines to watch out for through the day.(n)</desc>
+  </programme>
+  <programme start="20200209093000 +0530" stop="20200209100000 +0530" channel="NDTV 24X7">
+    <title lang="en">Cell Guru</title>
+    <desc lang="en">After Touch Screen phones, Square Phones is the new fab! Watch Cell Guru review on new square phones for India.(n)</desc>
+  </programme>
+  <programme start="20200209100000 +0530" stop="20200209110000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Big Fight</title>
+    <desc lang="en">The programme is hosted by Vikram Chandra.(n)</desc>
+  </programme>
+  <programme start="20200209110000 +0530" stop="20200209113000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209113000 +0530" stop="20200209120000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Gadgets 360 Show</title>
+    <desc lang="en">The host presents a detailed analysis of the latest gadgets and also shares various tips and tricks to make optimum use of them.(n)</desc>
+  </programme>
+  <programme start="20200209120000 +0530" stop="20200209123000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209123000 +0530" stop="20200209130000 +0530" channel="NDTV 24X7">
+    <title lang="en">Gadbo Nava Chhattisgarh</title>
+    <desc lang="en">A series that showcases the best of Chhattisgarh, from welfare schemes to tribal culture and youth empowerment to tackling malnourishment, through documentaries and conclave sessions.(n)</desc>
+  </programme>
+  <programme start="20200209130000 +0530" stop="20200209133000 +0530" channel="NDTV 24X7">
+    <title lang="en">Turning Point</title>
+    <desc lang="en">On this viewer call in show, crickets most famous commentator Navjot Sidhu  discusses what the crucial turning point of  the match was.(n)</desc>
+  </programme>
+  <programme start="20200209133000 +0530" stop="20200209140000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Car And Bike Show</title>
+    <desc lang="en">This show is about the automobile industry. It will bring to the viewers, information on the individual players, the various models and sub sectors such as auto parts and ancillaries.(n)</desc>
+  </programme>
+  <programme start="20200209140000 +0530" stop="20200209143000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209143000 +0530" stop="20200209150000 +0530" channel="NDTV 24X7">
+    <title lang="en">Auto Expo 2020</title>
+    <desc lang="en">NDTV goes behind the scenes at the Auto Expo 2020 to bring you the best unveils, the new technology on display and chats with the big names and newsmakers.(n)</desc>
+  </programme>
+  <programme start="20200209150000 +0530" stop="20200209160000 +0530" channel="NDTV 24X7">
+    <title lang="en">We The People</title>
+    <desc lang="en">Barkha Dutt leads a live audience in grilling politicians and newsmakers about a topic of current interest.(n)</desc>
+  </programme>
+  <programme start="20200209160000 +0530" stop="20200209170000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209170000 +0530" stop="20200209173000 +0530" channel="NDTV 24X7">
+    <title lang="en">Special News</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209173000 +0530" stop="20200209180000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Car And Bike Show</title>
+    <desc lang="en">This show is about the automobile industry. It will bring to the viewers, information on the individual players, the various models and sub sectors such as auto parts and ancillaries.(n)</desc>
+  </programme>
+  <programme start="20200209180000 +0530" stop="20200209183000 +0530" channel="NDTV 24X7">
+    <title lang="en">News @ 6</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200209183000 +0530" stop="20200209190000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Gadgets 360 Show</title>
+    <desc lang="en">The host presents a detailed analysis of the latest gadgets and also shares various tips and tricks to make optimum use of them.(n)</desc>
+  </programme>
+  <programme start="20200209190000 +0530" stop="20200209200000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
+  </programme>
+  <programme start="20200209200000 +0530" stop="20200209210000 +0530" channel="NDTV 24X7">
+    <title lang="en">We The People</title>
+    <desc lang="en">Barkha Dutt leads a live audience in grilling politicians and newsmakers about a topic of current interest.(n)</desc>
+  </programme>
+  <programme start="20200209210000 +0530" stop="20200209213000 +0530" channel="NDTV 24X7">
+    <title lang="en">Left, Right &amp; Centre</title>
+    <desc lang="en">The day's biggest news dissected by the day's newsmakers. Diverse opinions,from across the political spectrum.(n)</desc>
+  </programme>
+  <programme start="20200209213000 +0530" stop="20200209223000 +0530" channel="NDTV 24X7">
+    <title lang="en">The Big Fight</title>
+    <desc lang="en">The programme is hosted by Vikram Chandra.(n)</desc>
+  </programme>
+  <programme start="20200209223000 +0530" stop="20200209230000 +0530" channel="NDTV 24X7">
+    <title lang="en">Filmy Chakkar</title>
+    <desc lang="en">A look back at Bollywood's golden history through songs, film clips and interviews.(n)</desc>
+  </programme>
+  <programme start="20200209230000 +0530" stop="20200209233000 +0530" channel="NDTV 24X7">
+    <title lang="en">News</title>
+    <desc lang="en">Track major news and developments of the day.(n)</desc>
   </programme>
 </tv>
