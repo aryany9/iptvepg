@@ -5,8 +5,8 @@
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/103AAJTAK.jpg" />
     <url>http://www.d2h.com</url>
   </channel>
-  <channel id="ANIMAL PLANET">
-    <display-name lang="en">ANIMAL PLANET</display-name>
+  <channel id="ANIMAL PLANET ">
+    <display-name lang="en">ANIMAL PLANET </display-name>
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/606ANMLPNT.jpg" />
     <url>http://www.d2h.com</url>
   </channel>
@@ -160,20 +160,10 @@
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/3399XM.jpg" />
     <url>http://www.d2h.com</url>
   </channel>
-  <channel id="News 24">
-    <display-name lang="en">News 24</display-name>
-    <icon src="http://www.tatasky.com/tvguiderv/channel_logos/516.png" />
-    <url>http://www.tatasky.com</url>
-  </channel>
   <channel id="ABP NEWS">
     <display-name lang="en">ABP NEWS</display-name>
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/102ABPNEWS.jpg" />
     <url>http://www.d2h.com</url>
-  </channel>
-  <channel id="News 18 India">
-    <display-name lang="en">News 18 India</display-name>
-    <icon src="http://www.tatasky.com/tvguiderv/channel_logos/519.png" />
-    <url>http://www.tatasky.com</url>
   </channel>
   <channel id="ZEE ETC BOLLYWOOD">
     <display-name lang="en">ZEE ETC BOLLYWOOD</display-name>
@@ -183,6 +173,31 @@
   <channel id="SONY MAX HD">
     <display-name lang="en">SONY MAX HD</display-name>
     <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/0909SMAXHD.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="STAR GOLD HD">
+    <display-name lang="en">STAR GOLD HD</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/704STGLHD.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="B4U MOVIES">
+    <display-name lang="en">B4U MOVIES</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/517B4UMO.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="MNX">
+    <display-name lang="en">MNX</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/127MNX.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="MOVIES NOW">
+    <display-name lang="en">MOVIES NOW</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/137MOVNWSD.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="DD NEWS">
+    <display-name lang="en">DD NEWS</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/124DDNEWS.jpg" />
     <url>http://www.d2h.com</url>
   </channel>
   <programme start="20200211000000 +0530" stop="20200211001000 +0530" channel="AAJ TAK">
@@ -4378,5 +4393,357 @@
   </programme>
   <programme start="20200211205500 +0530" stop="20200211230800 +0530" channel="SONY MAX HD">
     <title lang="en">Hyper 2</title>
+  </programme>
+  <programme start="20200211011300 +0530" stop="20200211024900 +0530" channel="STAR GOLD HD">
+    <title lang="en">Dolly Ki Doli</title>
+    <desc lang="en">The story revolves around a conwoman,Dolly who cons men into marrying her and on the marriage night steals their wealth and runs away.(n)</desc>
+  </programme>
+  <programme start="20200211024900 +0530" stop="20200211052200 +0530" channel="STAR GOLD HD">
+    <title lang="en">Ganga</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211052200 +0530" stop="20200211062900 +0530" channel="STAR GOLD HD">
+    <title lang="en">Team 5 (2017)</title>
+    <desc lang="en">Akhil, a passionate rider, is part of a bike racing group which performs stunts and participates in tournaments across the city. His life changes when he falls for Irene, an event manager.(n)</desc>
+  </programme>
+  <programme start="20200211062900 +0530" stop="20200211075800 +0530" channel="STAR GOLD HD">
+    <title lang="en">Bal Ganesh And The Pomozom Planet</title>
+    <desc lang="en">Animation movie for children.(n)</desc>
+  </programme>
+  <programme start="20200211075800 +0530" stop="20200211094300 +0530" channel="STAR GOLD HD">
+    <title lang="en">Little Krishna - The Darling Of Vrindavan</title>
+    <desc lang="en">Little Krishna is the darling of Vrindavan, the land of peace and tranquility, which is constantly threatened by the malice of evil king Kamsa.(n)</desc>
+  </programme>
+  <programme start="20200211094300 +0530" stop="20200211124100 +0530" channel="STAR GOLD HD">
+    <title lang="en">Taarzan: The Wonder Car</title>
+    <desc lang="en">A man converts his father's old car into a wonder car which comes alive with his father's spirit and starts killing his father's murderers.(n)</desc>
+  </programme>
+  <programme start="20200211124100 +0530" stop="20200211150000 +0530" channel="STAR GOLD HD">
+    <title lang="en">Vardi Ka Dum</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211150000 +0530" stop="20200211171800 +0530" channel="STAR GOLD HD">
+    <title lang="en">Dumdar Khiladi</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211171800 +0530" stop="20200211195500 +0530" channel="STAR GOLD HD">
+    <title lang="en">Bluffmaster!</title>
+    <desc lang="en">A conman Roy, gets dumped by his girl-friend. Then he finds out he has a fatal disease. On the verge of death, he resolves to do some good, by helping his apprentice Dittu hoodwink the mobster who hurt his (Dittu's) family.(n)</desc>
+  </programme>
+  <programme start="20200211195500 +0530" stop="20200211223300 +0530" channel="STAR GOLD HD">
+    <title lang="en">Double Attack</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211001902 +0530" stop="20200211020520 +0530" channel="B4U MOVIES">
+    <title lang="en">Guru Mahaguru</title>
+    <desc lang="en">Two stepbrothers are separated after their father is killed. At adult age, they become petty thieves and try to find their father's murderer, who allegedly goes by the name of Agarwal.(n)</desc>
+  </programme>
+  <programme start="20200211020520 +0530" stop="20200211042742 +0530" channel="B4U MOVIES">
+    <title lang="en">Dhansu Beats</title>
+    <desc lang="en">Back to back songs are played in this show.(n)</desc>
+  </programme>
+  <programme start="20200211042742 +0530" stop="20200211064222 +0530" channel="B4U MOVIES">
+    <title lang="en">Captain Bhawani</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211064222 +0530" stop="20200211094313 +0530" channel="B4U MOVIES">
+    <title lang="en">Diljala</title>
+    <desc lang="en">Mamta lives a middle-classed lifestyle in Bombay along with widower dad, Ratanmuni Gupta, who works as a Manager with Sharda Chemicals, while she studies in Lovedale College in Manori.(n)</desc>
+  </programme>
+  <programme start="20200211094313 +0530" stop="20200211125731 +0530" channel="B4U MOVIES">
+    <title lang="en">Amar Deep</title>
+    <desc lang="en">Hindi Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211125731 +0530" stop="20200211154745 +0530" channel="B4U MOVIES">
+    <title lang="en">Mafia Raaz</title>
+    <desc lang="en">An honest police officer has a mission to wipe out a mafia group. But in the process, he is forced to sacrifice not only his father but also his sister.(n)</desc>
+  </programme>
+  <programme start="20200211154745 +0530" stop="20200211183436 +0530" channel="B4U MOVIES">
+    <title lang="en">Aadmi Aur Apsara</title>
+    <desc lang="en">Raju, a courageous and spirited young man is a caregiver to four young orphans, Shamili, Shalini, Richard and Rishi. He works as a local tour guide in a picturesque hill station.(n)</desc>
+  </programme>
+  <programme start="20200211183436 +0530" stop="20200211213840 +0530" channel="B4U MOVIES">
+    <title lang="en">Meri Biwi Ka Jawab Nahin</title>
+    <desc lang="en">Ajay gets married to his childhood friend Durga; who is illiterate unable to differentiate between the style of these days and that of long time ago.(n)</desc>
+  </programme>
+  <programme start="20200211000000 +0530" stop="20200211005600 +0530" channel="MNX">
+    <title lang="en">Agent Cody Banks</title>
+    <desc lang="en">Agent Cody Banks is assigned a task to pose as a school student and befriend a fellow student Natalie, in order to gain access to her scientist father who is developing a fleet of deadly villains.(n)</desc>
+  </programme>
+  <programme start="20200211005600 +0530" stop="20200211023400 +0530" channel="MNX">
+    <title lang="en">Domestic</title>
+    <desc lang="en">English Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211023400 +0530" stop="20200211044500 +0530" channel="MNX">
+    <title lang="en">Fists Of Legend</title>
+    <desc lang="en">A reality television show halts the long wait of three fighters, who are keen to prove themselves in martial arts.(n)</desc>
+  </programme>
+  <programme start="20200211044500 +0530" stop="20200211063400 +0530" channel="MNX">
+    <title lang="en">Ronin</title>
+    <desc lang="en">Sam, an ex-US intelligence officer, hires a band of Japanese mercenaries to retrieve a mysterious suitcase which is about to fall into the hands of the Russians.(n)</desc>
+  </programme>
+  <programme start="20200211063400 +0530" stop="20200211082600 +0530" channel="MNX">
+    <title lang="en">Invincible Shaolin</title>
+    <desc lang="en">English Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211082600 +0530" stop="20200211100600 +0530" channel="MNX">
+    <title lang="en">Herbie: Fully Loaded</title>
+    <desc lang="en">English Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211100600 +0530" stop="20200211121500 +0530" channel="MNX">
+    <title lang="en">Rob-B-Hood</title>
+    <desc lang="en">English Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211121500 +0530" stop="20200211143100 +0530" channel="MNX">
+    <title lang="en">John Carter</title>
+    <desc lang="en">English Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211143100 +0530" stop="20200211161900 +0530" channel="MNX">
+    <title lang="en">Kung Fu Killer</title>
+    <desc lang="en">Hahou Mo, an incarcerated martial arts instructor, provides useful information to the police in exchange for his freedom when a killer starts targeting retired martial arts experts.(n)</desc>
+  </programme>
+  <programme start="20200211161900 +0530" stop="20200211190500 +0530" channel="MNX">
+    <title lang="en">The Lone Ranger</title>
+    <desc lang="en">John, a lawyer, joins his brother to capture Cavendish, an outlaw. Cavendish attacks and leaves them for dead, but John is rescued by Tonto, a rebel Comanche. They team up to take down the rogue.(n)</desc>
+  </programme>
+  <programme start="20200211190500 +0530" stop="20200211210500 +0530" channel="MNX">
+    <title lang="en">Dragon Fist</title>
+    <desc lang="en">Tang looks after his master's family who was murdered after a fight. The master's widow is also poisoned by an evil gang leader. Tang joins hand with Chung, a friend, and seeks revenge for her death.(n)</desc>
+  </programme>
+  <programme start="20200211210500 +0530" stop="20200211225200 +0530" channel="MNX">
+    <title lang="en">Bean</title>
+    <desc lang="en">English Feature Film.(n)</desc>
+  </programme>
+  <programme start="20200211000000 +0530" stop="20200211010000 +0530" channel="MOVIES NOW">
+    <title lang="en">Ant-Man</title>
+    <desc lang="en">Con artist Scott gains the ability to shrink in scale with the help of a futuristic suit. Now he must rise to the occasion of his superhero status and protect his secret from unsavoury elements.(n)</desc>
+  </programme>
+  <programme start="20200211010000 +0530" stop="20200211024500 +0530" channel="MOVIES NOW">
+    <title lang="en">Down With Love</title>
+    <desc lang="en">In 1962 New York City love blossoms between a playboy journalist and a feminist advice author.(n)</desc>
+  </programme>
+  <programme start="20200211024500 +0530" stop="20200211042500 +0530" channel="MOVIES NOW">
+    <title lang="en">The Boxer From Shantung</title>
+    <desc lang="en">Ma Yung Cheng a modest young patriot leaves Shantung to seek his fortune in Shanghai.  On arrival he is befriended by Hsiao Chiang Pei.(n)</desc>
+  </programme>
+  <programme start="20200211042500 +0530" stop="20200211055000 +0530" channel="MOVIES NOW">
+    <title lang="en">Mune</title>
+    <desc lang="en">When Necross, a corrupt ruler, disturbs the balance of the Moon by stealing the Sun from Sohone, a lunar faun and a girl made of wax must help him get the Sun back and restore the Moon.(n)</desc>
+  </programme>
+  <programme start="20200211055000 +0530" stop="20200211074300 +0530" channel="MOVIES NOW">
+    <title lang="en">Boxer Rebellion</title>
+    <desc lang="en">Its a story about kung fu fighters who join the Boxer Rebellion and the story Continues..(n)</desc>
+  </programme>
+  <programme start="20200211074300 +0530" stop="20200211094100 +0530" channel="MOVIES NOW">
+    <title lang="en">Last Tango In Paris</title>
+    <desc lang="en">A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex.(n)</desc>
+  </programme>
+  <programme start="20200211094100 +0530" stop="20200211113800 +0530" channel="MOVIES NOW">
+    <title lang="en">Knight and Day</title>
+    <desc lang="en">A young woman gets mixed up with a disgraced spy who is trying to clear his name.(n)</desc>
+  </programme>
+  <programme start="20200211113800 +0530" stop="20200211134100 +0530" channel="MOVIES NOW">
+    <title lang="en">Mr. &amp; Mrs. Smith</title>
+    <desc lang="en">A Typical Married Couple - A Little Bored With Their Relationship - Come To Discover That They Are Enemy Assassins Hired To Kill Each Other.(n)</desc>
+  </programme>
+  <programme start="20200211134100 +0530" stop="20200211152200 +0530" channel="MOVIES NOW">
+    <title lang="en">Race To Witch Mountain</title>
+    <desc lang="en">A Las Vegas cabbie enlists the help of a UFO expert to protect two siblings with paranormal powers from the clutches of an organization that wants to use the kids for their nefarious plans.(n)</desc>
+  </programme>
+  <programme start="20200211152200 +0530" stop="20200211164400 +0530" channel="MOVIES NOW">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">A battle against humankind is started when the existence of two underworld clans are discovered.(n)</desc>
+  </programme>
+  <programme start="20200211164400 +0530" stop="20200211182700 +0530" channel="MOVIES NOW">
+    <title lang="en">Monsters Inc.</title>
+    <desc lang="en">In order to power the city monsters have to scare children so that they scream. However the children are toxic to the monsters and after a child gets through 2 monsters realize things may not be what they think.(n)</desc>
+  </programme>
+  <programme start="20200211182700 +0530" stop="20200211210100 +0530" channel="MOVIES NOW">
+    <title lang="en">National Treasure: Book of Secrets</title>
+    <desc lang="en">Benjamin Gates must follow a clue left in John Wilkes Booth's diary to prove his ancestor's innocence in the assassination of Abraham Lincoln.(n)</desc>
+  </programme>
+  <programme start="20200211210100 +0530" stop="20200211233800 +0530" channel="MOVIES NOW">
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="en">A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains temptations and revenge.(n)</desc>
+  </programme>
+  <programme start="20200211000000 +0530" stop="20200211003000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211003000 +0530" stop="20200211010000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211010000 +0530" stop="20200211013000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211013000 +0530" stop="20200211020000 +0530" channel="DD NEWS">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that looks at the events and news happenings of the day ahead, with a variety of interesting segments.(n)</desc>
+  </programme>
+  <programme start="20200211020000 +0530" stop="20200211023000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211023000 +0530" stop="20200211030000 +0530" channel="DD NEWS">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that looks at the events and news happenings of the day ahead, with a variety of interesting segments.(n)</desc>
+  </programme>
+  <programme start="20200211030000 +0530" stop="20200211033000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211033000 +0530" stop="20200211040000 +0530" channel="DD NEWS">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that looks at the events and news happenings of the day ahead, with a variety of interesting segments.(n)</desc>
+  </programme>
+  <programme start="20200211040000 +0530" stop="20200211043000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211043000 +0530" stop="20200211050000 +0530" channel="DD NEWS">
+    <title lang="en">News</title>
+    <desc lang="en">A news bulletin that looks at the events and news happenings of the day ahead, with a variety of interesting segments.(n)</desc>
+  </programme>
+  <programme start="20200211050000 +0530" stop="20200211053000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211053000 +0530" stop="20200211060000 +0530" channel="DD NEWS">
+    <title lang="en">Kisan Samachar</title>
+    <desc lang="en">The news on the latest agricultural technology, innovations and facilities. Get tips on new approaches adopted to cultivate a good produce.(n)</desc>
+  </programme>
+  <programme start="20200211060000 +0530" stop="20200211061500 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211061500 +0530" stop="20200211063000 +0530" channel="DD NEWS">
+    <title lang="en">News For Hearing Impaired</title>
+    <desc lang="en">News bulletin in sign language for the hearing impaired.(n)</desc>
+  </programme>
+  <programme start="20200211063000 +0530" stop="20200211064500 +0530" channel="DD NEWS">
+    <title lang="en">Jammu &amp; Kashmir Ladakh - Badlav Ki Bayar</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200211064500 +0530" stop="20200211065500 +0530" channel="DD NEWS">
+    <title lang="en">Vaarta Sanskrit Samachar</title>
+    <desc lang="en">Take a look at the latest social, political and economic news from across the states of India.(n)</desc>
+  </programme>
+  <programme start="20200211065500 +0530" stop="20200211070000 +0530" channel="DD NEWS">
+    <title lang="en">5 Minute 15 Khabrein</title>
+    <desc lang="en">A fast-paced news bulletin, which presents the latest headline-grabbing news stories in five minutes.(n)</desc>
+  </programme>
+  <programme start="20200211070000 +0530" stop="20200211075500 +0530" channel="DD NEWS">
+    <title lang="en">Naya Savera</title>
+    <desc lang="en">Morning Show with News Guest Discussion News Paper Highlights.(n)</desc>
+  </programme>
+  <programme start="20200211075500 +0530" stop="20200211080000 +0530" channel="DD NEWS">
+    <title lang="en">Jal Shakti Samachar</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200211080000 +0530" stop="20200211103000 +0530" channel="DD NEWS">
+    <title lang="en">Special Report</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200211103000 +0530" stop="20200211110000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211110000 +0530" stop="20200211113000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211113000 +0530" stop="20200211120000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211120000 +0530" stop="20200211123000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211123000 +0530" stop="20200211130000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211130000 +0530" stop="20200211140000 +0530" channel="DD NEWS">
+    <title lang="en">Mid Day Prime</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200211140000 +0530" stop="20200211150000 +0530" channel="DD NEWS">
+    <title lang="en">Mid Day Prime</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200211150000 +0530" stop="20200211153000 +0530" channel="DD NEWS">
+    <title lang="en">Tejaswani</title>
+    <desc lang="en">Updates on all the events that happened in the morning.(n)</desc>
+  </programme>
+  <programme start="20200211153000 +0530" stop="20200211160000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211160000 +0530" stop="20200211163000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211163000 +0530" stop="20200211170000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211170000 +0530" stop="20200211173000 +0530" channel="DD NEWS">
+    <title lang="en">Khel Samachar</title>
+    <desc lang="en">The most recent news, updates and developments in the world of sports.(n)</desc>
+  </programme>
+  <programme start="20200211173000 +0530" stop="20200211180000 +0530" channel="DD NEWS">
+    <title lang="en">The News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211180000 +0530" stop="20200211183000 +0530" channel="DD NEWS">
+    <title lang="en">Janadesh</title>
+    <desc lang="en">The most recent news, updates and developments.(n)</desc>
+  </programme>
+  <programme start="20200211183000 +0530" stop="20200211185000 +0530" channel="DD NEWS">
+    <title lang="en">The Kashmir Truth</title>
+    <desc lang="en">The Kashmir Truth.(n)</desc>
+  </programme>
+  <programme start="20200211185000 +0530" stop="20200211190000 +0530" channel="DD NEWS">
+    <title lang="en">Jal Shakti Samachar</title>
+    <desc lang="en">A Special Report.(n)</desc>
+  </programme>
+  <programme start="20200211190000 +0530" stop="20200211193000 +0530" channel="DD NEWS">
+    <title lang="en">Samachar</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211193000 +0530" stop="20200211200000 +0530" channel="DD NEWS">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A special programme.(n)</desc>
+  </programme>
+  <programme start="20200211200000 +0530" stop="20200211210000 +0530" channel="DD NEWS">
+    <title lang="en">News Night</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211210000 +0530" stop="20200211213000 +0530" channel="DD NEWS">
+    <title lang="en">Do Touck</title>
+    <desc lang="en">The host discusses with experts varied facets of political, cultural, social, economic, military and diplomatic issues facing India.(n)</desc>
+  </programme>
+  <programme start="20200211213000 +0530" stop="20200211220000 +0530" channel="DD NEWS">
+    <title lang="en">Express News</title>
+    <desc lang="en">A bulletin that gives all the major news of the day with analysis.(n)</desc>
+  </programme>
+  <programme start="20200211220000 +0530" stop="20200211221500 +0530" channel="DD NEWS">
+    <title lang="en">Sansad Samachar</title>
+    <desc lang="en">Latest news and updates related to Parliament.(n)</desc>
+  </programme>
+  <programme start="20200211221500 +0530" stop="20200211223000 +0530" channel="DD NEWS">
+    <title lang="en">Parliament News</title>
+    <desc lang="en">Special report on the ongoing Lok Sabha session.(n)</desc>
+  </programme>
+  <programme start="20200211223000 +0530" stop="20200211230000 +0530" channel="DD NEWS">
+    <title lang="en">Special Programme</title>
+    <desc lang="en">A special programme.(n)</desc>
+  </programme>
+  <programme start="20200211230000 +0530" stop="20200211233000 +0530" channel="DD NEWS">
+    <title lang="en">Do Touck</title>
+    <desc lang="en">The host discusses with experts varied facets of political, cultural, social, economic, military and diplomatic issues facing India.(n)</desc>
   </programme>
 </tv>
